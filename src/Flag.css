@@ -1,0 +1,7 @@
+.flag {
+    height: 20rem;
+    width: 30rem;
+    background: blue;
+    margin: 0 auto;
+    background-size: contain;
+}
